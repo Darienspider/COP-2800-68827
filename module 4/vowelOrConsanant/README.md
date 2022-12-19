@@ -2,17 +2,16 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Goal:
 
-The workspace contains two folders by default, where:
+The goal of this project is to Write a program that prompts the user to enter a letter and check whether the letter is a vowel or consonant. Here is a sample run:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Enter a letter: `B`
+Return:  `` is a ` ` 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Enter a letter: `a`
+Return:  `a` is a `Vowel` 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Enter a letter: `#`
+Return:  `#` is not a `Valid Input` 
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
