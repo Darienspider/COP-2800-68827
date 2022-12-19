@@ -21,7 +21,7 @@ Program start
   Prompt user to enter character
   Created method “detectChar”
 
-  Method start:
+  Method start: \n
     Converted user input to lower cas
     Converted input to an array and grabbed the first character
     Created a case for each vowerl and provided an out script
